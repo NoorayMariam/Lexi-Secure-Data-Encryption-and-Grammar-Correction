@@ -77,3 +77,12 @@ a precaution rather than loosing data and handling loss. Lexi is just the beginn
 **Future Scope**
 1. In future, the project could explore by integrating various features such as Login/Register page, Backup to Cloud Space and multi-user paradigm.
 2. In future, more secured encryption logic could be invented
+
+**Libraries to download**
+1. tkinter
+2. time
+3. webbrowser
+4.  os
+5.  bm
+6.  base64
+7.  language_tool_python
